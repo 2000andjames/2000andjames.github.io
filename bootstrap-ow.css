@@ -1,0 +1,23 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #f06c6c;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #f06c6c;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #ca0a0a;
+}
+
+.card {
+    border-radius: 2rem;
+    border: 2px black solid;
+    /* text-align: center; */
+}
+
+.card-body {
+    padding: 2rem;
+}
