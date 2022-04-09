@@ -29,8 +29,8 @@ Users should be able to: click the button and generate a new piece of advice.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/2000andjames/2000andjames.github.io/tree/main/projects/advice-generator)
-- Live Site URL: [Add live site URL here](https://2000andjames.github.io/projects/advice-generator/app.html)
+- Solution URL: [URL here](https://github.com/2000andjames/2000andjames.github.io/tree/main/projects/advice-generator)
+- Live Site URL: [URL here](https://2000andjames.github.io/projects/advice-generator/app.html)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to: click the button and generate a new piece of advice.
 
 ## Author
 
-- Website - [200andjames](https://2000andjames.github.io/)
+- Website - [2000andjames](https://2000andjames.github.io/)
 - Frontend Mentor - [@2000andjames](https://www.frontendmentor.io/profile/2000andjames)
