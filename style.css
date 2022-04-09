@@ -1,0 +1,41 @@
+.nav {
+    margin: 0 auto;
+    align-items: center;
+}
+
+/* .projects-wrap {
+
+} */
+
+.padding-60 {padding: 60px 0;}
+.padding-80 {padding: 80px 0;}
+.padding-100 {padding: 100px 0;}
+.padding-120 {padding: 120px 0;}
+
+.brand-col {
+    color: #f06c6c;
+}
+
+.brand-bkg {
+    background: #f06c6c;
+}
+
+.project-technology {
+    font-size: 14px;
+    color: #f06c6c;
+}
+
+.project-description {
+    margin-bottom: 0;
+}
+
+.coming-soon {
+    color: #f06c6c;
+    padding: 30px 0;
+    border: 2px #f06c6c solid;
+    background: none;
+}
+
+.contact-title {
+    padding-bottom: 18px;
+}
