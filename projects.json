@@ -5,13 +5,23 @@
         {
             "id": "p2001",
             "name": "Portfolio Website",
-            "description": "A website to showcase previous projects and start to get a grasp of web development technology",
-            "technology": [ "HTML", "CSS", "Javascript", "JSON", "Git", "GitHub" ],
+            "description": "A website to showcase previous projects and start to get a grasp of web development technology.",
+            "technology": [ "HTML", "CSS", "Javascript", "JSON", "Git", "GitPages" ],
             "image_url": "www.findanimage...",
+            "project_url": "/",
             "live_project": true
         },
         {
             "id": "p2002",
+            "name": "Advice Generator",
+            "description": "Leverages Advice Slip API to generate a new piece of advice at the click of a button.",
+            "technology": [ "HTML", "CSS", "Javascript", "API" ],
+            "image_url": "www.findanimage...",
+            "project_url": "/projects/advice-generator/app.html",
+            "live_project": true
+        },
+        {
+            "id": "p2003",
             "name": "Here to there",
             "description": "...",
             "technology": [ "HTML", "CSS", "Javascript" ],

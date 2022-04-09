@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.card h4 {
+    font-weight: 500;
+}
+
 .nav {
     margin: 0 auto;
     align-items: center;
 }
 
-/* .projects-wrap {
-
-} */
-
-.padding-60 {padding: 60px 0;}
-.padding-80 {padding: 80px 0;}
-.padding-100 {padding: 100px 0;}
-.padding-120 {padding: 120px 0;}
+.padding-60 {padding-top: 60px; padding-bottom: 60px;}
+.padding-80 {padding-top: 80px; padding-bottom: 80px;}
+.padding-100 {padding-top: 100px; padding-bottom: 100px;}
+.padding-120 {padding-top: 120px; padding-bottom: 120px;}
 
 .brand-col {
     color: #f06c6c;
@@ -20,9 +27,18 @@
     background: #f06c6c;
 }
 
+.project-title {
+    color: initial;
+    font-weight: 500;
+    text-decoration: underline;
+    /* text-transform: lowercase; */
+}
+
 .project-technology {
     font-size: 14px;
     color: #f06c6c;
+    font-weight: 500;
+    /* text-transform: lowercase; */
 }
 
 .project-description {

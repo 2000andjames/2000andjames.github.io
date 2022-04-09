@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: #1f2632;
+    font-weight: normal;
+}
+
+.logo-white {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.advice-wrap {
+    padding: 180px 20px;
+}
+
+.advice-card {
+    background-color: #323a49;
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 40px;
+    border-radius: 18px;
+}
+
+.advice-label {
+    color: #52ffa8;
+    font-size: 14px;
+}
+
+.advice-text {
+    color: #cee3e9;
+    font-size: 28px;
+    padding-bottom: 8px;
+}
+
+.divider-img {
+    padding-bottom: 12px;
+}
+
+.dice-btn {
+    background-color: #52ffa8;
+    padding: 14px;
+    border-radius: 500px;
+    transform: translateY(-50%);
+    display: table;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.dice-btn:hover {
+    -webkit-box-shadow: 0px 0px 20px 11px rgba(82,255,168,0.34);
+    box-shadow: 0px 0px 20px 11px rgba(82,255,168,0.34);
+}
+
+.btn-img {
+    margin: auto;
+    width: 28px;
+}
+
+/* Overwrite Boostrap */
+
+.card {
+    background: none;
+    display: block;
+}
