@@ -68,3 +68,10 @@ body {
     background: none;
     display: block;
 }
+
+@media (max-width: 500px) {
+    .advice-wrap {
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+}
