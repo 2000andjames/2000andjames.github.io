@@ -22,10 +22,20 @@
         },
         {
             "id": "p2003",
+            "name": "Time Tracker",
+            "description": "Interactive time tracker dashboard app that filters based on timeframe and groups based category",
+            "technology": [ "HTML", "CSS", "Javascript", "JSON" ],
+            "image_url": "www.findanimage...",
+            "project_url": "/projects/time-tracker/app.html",
+            "live_project": true
+        },
+        {
+            "id": "p2004",
             "name": "Here to there",
             "description": "...",
             "technology": [ "HTML", "CSS", "Javascript" ],
             "image_url": "www.findanimage...",
+            "project_url": "/projects/advice-generator/app.html",
             "live_project": false
         }
     ]
