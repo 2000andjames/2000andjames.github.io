@@ -40,7 +40,6 @@ Users should be able to: click the button and generate a new piece of advice.
 - CSS custom properties
 - Bootstrap CSS
 - Vanilla Javascript
-- Mobile-first workflow
 
 ## Author
 
